@@ -1,0 +1,38 @@
+{
+  "app": {
+    "title": "Eduflow",
+    "home": "Regresar a la página de inicio"
+  },
+  "welcome": {
+    "screen": {
+      "subtitle": "Su experiencia de aprendizaje personalizada comienza aquí.",
+      "title": "Bienvenido a EduFlow"
+    }
+  },
+  "course": {
+    "list": {
+      "title": "Cursos disponibles: {{numCourses}}",
+      "empty": "No hay cursos disponibles en este momento."
+    },
+    "enroll": {
+      "button": "Inscríbase ahora"
+    }
+  },
+  "lesson": {
+    "start": {
+      "button": "Comenzar la lección"
+    },
+    "in-progress": "Lección en curso"
+  },
+  "quiz": {
+    "start": {
+      "button": "Comenzar cuestionario"
+    },
+    "heading": "¡Hora del cuestionario!"
+  },
+  "lang": {
+    "fr": "francesa",
+    "es": "española",
+    "en": "Inglés"
+  }
+}
